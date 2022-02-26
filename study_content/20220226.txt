@@ -1,0 +1,41 @@
+[Open JDK]
+https://openjdk.java.net/
+https://openjdk.java.net/install/
+
+[JDK 11 download]
+(압축파일 형식으로 환경변수 설정 후 바로 사용 가능)
+http://jdk.java.net/java-se-ri/11
+
+[환경변수 추가]
+ # 사용자
+   path : D:\javastudy_jdk11\jdk-11\bin
+   path : %JAVA_HOME%\bin
+ # 시스템
+   JAVA_HOME : D:\javastudy_jdk11\jdk-11
+
+[JDK & JRE]
+ # JDK(Java Development Kit)
+    ㄴCompiler + JRE (JVM)
+    ㄴ{Code} -> {Compiler + JRE (JVM)} -> {for win/lunux ..}
+
+ # JRE(Java Runtime Environment)
+    ㄴJVM(통역기?)
+
+[Git]
+ : SCM(Source Cotrol Management)의 한 종류
+ # Server : Git
+ # Client : Fork
+
+ # 밀어넣기(Push)
+     1. Staging
+     2. Commit
+     3. Push
+
+ # 가져오기(Pull)
+     1. Clone
+     2. Fetch
+     3. Pull
+
+[IDE]
+ # Eclipse : 무료, 무거움
+ # intelliJ : 유료, 가벼움
